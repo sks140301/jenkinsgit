@@ -2,9 +2,9 @@
 <application-state>
   <context id="">
     <application id="software-properties-gtk.desktop" score="2307" last-seen="1687862783"/>
-    <application id="firefox_firefox.desktop" score="122" last-seen="1687864084"/>
+    <application id="firefox_firefox.desktop" score="216" last-seen="1687867778"/>
     <application id="gnome-initial-setup.desktop" score="3" last-seen="1687841160"/>
-    <application id="org.gnome.Terminal.desktop" score="825" last-seen="1687863414"/>
+    <application id="org.gnome.Terminal.desktop" score="1256" last-seen="1687867508"/>
     <application id="update-manager.desktop" score="0" last-seen="1687841208"/>
   </context>
 </application-state>
