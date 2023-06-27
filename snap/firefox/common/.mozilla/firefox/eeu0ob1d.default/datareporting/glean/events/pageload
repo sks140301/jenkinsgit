@@ -1,0 +1,8 @@
+{"timestamp":5875956,"category":"perf","name":"page_load","extra":{"same_origin_nav":"false","js_exec_time":"95","load_time":"6775","response_time":"2102","http_ver":"2","fcp_time":"4573","load_type":"STOP"}}
+{"timestamp":5890891,"category":"perf","name":"page_load","extra":{"load_time":"3269","load_type":"LINK","js_exec_time":"29","http_ver":"2","response_time":"3083","same_origin_nav":"false"}}
+{"timestamp":6237937,"category":"perf","name":"page_load","extra":{"js_exec_time":"36","load_time":"1336","http_ver":"1","load_type":"STOP","response_time":"618"}}
+{"timestamp":6273915,"category":"perf","name":"page_load","extra":{"js_exec_time":"36","load_type":"LINK","redirect_time":"161","http_ver":"1","redirect_count":"1","load_time":"499","response_time":"276"}}
+{"timestamp":6843679,"category":"perf","name":"page_load","extra":{"js_exec_time":"38","load_type":"STOP","load_time":"1478","http_ver":"1","response_time":"1214"}}
+{"timestamp":6856379,"category":"perf","name":"page_load","extra":{"response_time":"70","js_exec_time":"92","http_ver":"1","fcp_time":"333","load_type":"LINK","load_time":"355"}}
+{"timestamp":6879784,"category":"perf","name":"page_load","extra":{"redirect_count":"1","load_type":"LINK","http_ver":"1","js_exec_time":"335","response_time":"1108","fcp_time":"1404","load_time":"2847","redirect_time":"40"}}
+{"timestamp":7006763,"category":"perf","name":"page_load","extra":{"response_time":"487","load_type":"LINK","js_exec_time":"31","load_time":"682","http_ver":"1","redirect_count":"1","redirect_time":"155"}}
